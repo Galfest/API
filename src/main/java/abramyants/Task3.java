@@ -6,7 +6,6 @@ public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         System.out.println("Введите первое число:");
         double num1 = scanner.nextDouble();
 
